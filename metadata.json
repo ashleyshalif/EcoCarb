@@ -1,0 +1,6 @@
+{
+  "name": "EcoCarb - Carbon Capture Management",
+  "description": "A scalable framework for carbon capture management, waste coupling mineralization, and CCaaS analytics by Team Carbon Mod.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
